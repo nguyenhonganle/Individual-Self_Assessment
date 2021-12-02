@@ -19,10 +19,10 @@
 - The topic is **PREDICTING IMDb RATINGS**
 
 - We use several ML in this project : 
-> 1. Multiple Linear Regression
-> 2. SVM
-> 3. Random Forest Regression
-> 4. Gradient Boosting
+> 1. Multiple linear Regression : Best Score : 0.244
+> 2. Support Vector Machine. Accuracy : 0.86
+> 3. Random Forest Regression Best Score : 0.4961116558077189
+> 4. Gradient Boosting Accuracy : 0.98
 > 5. Deep Learning
 
 - We use machine learning algorithms that can predict the IMDb rating based on the features. To achieve this from Various Models, the model with the lowest root mean squared error, the best accuracy, and best confusion matrix is selected.
